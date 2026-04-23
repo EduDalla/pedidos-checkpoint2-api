@@ -9,5 +9,4 @@ public class Checkpoint2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Checkpoint2Application.class, args);
 	}
-
 }
